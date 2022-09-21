@@ -1,0 +1,23 @@
+@import "atropos/atropos.scss";
+
+.my-atropos {
+  width: 95vw;
+  height: 95vh;
+  margin: auto;
+}
+
+.atropos-bg-img {
+    position: absolute;
+    top: 0px;
+}
+
+.atropos-text-img {
+    position: absolute;
+    top: 0px;
+    left: 0;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
